@@ -696,6 +696,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id button
 id buttonPanel
 id center
 id center_horizontal
@@ -734,6 +735,7 @@ id icon
 id icon_group
 id ifRoom
 id image
+id imageView
 id imageView1
 id imageView2
 id imageView3
@@ -856,6 +858,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_launcher
 layout activity_main
 layout notification_action
 layout notification_action_tombstone
@@ -869,6 +872,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap spongebob
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

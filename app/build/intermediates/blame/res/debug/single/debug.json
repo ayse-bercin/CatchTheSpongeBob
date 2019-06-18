@@ -60,6 +60,10 @@
         "source": "/Users/aysebercin/.gradle/caches/transforms-2/files-2.1/b5b3f1f010ee06bf88e74cf4b2cbf0b8/appcompat-1.0.2/res/layout/abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "/Users/aysebercin/AndroidStudioProjects/CatchTheSpongeBob/app/build/intermediates/res/merged/debug/mipmap-mdpi_spongebob.jpg.flat",
+        "source": "/Users/aysebercin/AndroidStudioProjects/CatchTheSpongeBob/app/src/main/res/mipmap-mdpi/spongebob.jpg"
+    },
+    {
         "merged": "/Users/aysebercin/AndroidStudioProjects/CatchTheSpongeBob/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
         "source": "/Users/aysebercin/.gradle/caches/transforms-2/files-2.1/b5b3f1f010ee06bf88e74cf4b2cbf0b8/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
     },
@@ -190,6 +194,10 @@
     {
         "merged": "/Users/aysebercin/AndroidStudioProjects/CatchTheSpongeBob/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "/Users/aysebercin/AndroidStudioProjects/CatchTheSpongeBob/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aysebercin/AndroidStudioProjects/CatchTheSpongeBob/app/build/intermediates/res/merged/debug/layout_activity_launcher.xml.flat",
+        "source": "/Users/aysebercin/AndroidStudioProjects/CatchTheSpongeBob/app/src/main/res/layout/activity_launcher.xml"
     },
     {
         "merged": "/Users/aysebercin/AndroidStudioProjects/CatchTheSpongeBob/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
